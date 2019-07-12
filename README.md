@@ -15,5 +15,5 @@ There is another version in folder plan2.
 ### Getting Started 
 
 1) install hugo
-2) clone the repo and cd into textxd-19
+2) clone the repo and cd into textxd-19/
 3) run hugo server -D
