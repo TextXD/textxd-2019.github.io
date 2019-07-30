@@ -1,5 +1,6 @@
 title = "TextXD"
-baseURL = "https://textxd.github.io/textxd-new"
+#baseURL = "https://textxd.github.io/textxd-new"
+baseURL = "http://www.textxd.org/textxd-new.github.io/"
 languageCode = "en-us"
 theme = "ananke"
 publishDir = "docs"
