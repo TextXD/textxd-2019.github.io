@@ -1,0 +1,7 @@
+[submodule "test_hugo/themes/ananke"]
+	path = test_hugo/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "public"]
+	path = public
+	url = git@github.com:TextXD/textxd-new.github.io.git
+	branch = master
