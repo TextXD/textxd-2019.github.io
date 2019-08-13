@@ -8,3 +8,5 @@ To preview,
 1. pull the repo
 2. `cd 19-academic`
 3. `hugo server -D`
+
+Temporary Link: https://awesome-leakey-101b04.netlify.com/
