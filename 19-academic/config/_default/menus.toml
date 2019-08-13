@@ -3,13 +3,9 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-
-
-
-
 [[main]]
   name = "About"
-  url = "#aboutextxd"
+  url = "#about"
   weight = 50
 
 [[main]]
@@ -22,10 +18,11 @@
   url = "#people"
   weight = 60
 
-[[main]]
-  name = "2019 Agenda"
-  url = "#talks"
-  weight = 65
+# Add back in once it's in better shape.
+#[[main]]
+#  name = "2019 Agenda"
+#  url = "#talks"
+#  weight = 65
 
 [[main]]
   name = "Past Events"

@@ -25,7 +25,7 @@
       <img class="portrait" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=200')" itemprop="image" alt="Avatar">
       {{ else if $avatar }}
       {{ $avatar_image := $avatar.Fill "250x250 Center" }}
-      <img class="portrait" src="{{ $avatar_image.RelPermalink }}" itemprop="image" alt="Avatar">
+      <img class="portrait" src="{{ $avatar_image.RelPermalink }}" itemprop="image" alt="Avatar 2">
       {{ end }}
 
       <div class="portrait-title">
