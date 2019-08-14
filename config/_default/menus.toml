@@ -16,7 +16,7 @@
 [[main]]
   name = "Organizers"
   url = "#people"
-  weight = 60
+  weight = 70
 
 # Add back in once it's in better shape.
 #[[main]]
@@ -27,7 +27,7 @@
 [[main]]
   name = "Past Events"
   url = "#experience"
-  weight = 70
+  weight = 60
   
 [[main]]
   name = "Contact"
