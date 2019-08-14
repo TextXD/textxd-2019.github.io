@@ -12,6 +12,8 @@ superuser: false
 # Role/position
 role: UCSF
 
+weight: 6
+
 # Organizations/Affiliations
 organizations:
 - name: BIDS, D-Lab UC Berkeley
