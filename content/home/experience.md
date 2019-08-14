@@ -22,8 +22,8 @@ title = "TextXD 2016"
 company = ""
 company_url = ""
 #location = "UC Berkeley"
-date_start = "2016-12-01"
-date_end = "2016-12-01"
+date_start = "2016-10-06"
+date_end = "2016-10-06"
 description = """"""
 
 [[experience]]
