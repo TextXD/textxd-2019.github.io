@@ -42,7 +42,7 @@
     {{ end }}
 
     <div class="portrait-title">
-      <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Params.name }}{{if $link}}</a>{{end}}</h2>
+      <h2>{{ .Params.name }}</h2>
       {{ with .Params.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
       {{ with .Params.interests }}<p class="people-interests">{{ delimit . ", " | markdownify | emojify }}</p>{{ end }}
     </div>
