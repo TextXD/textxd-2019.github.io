@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "Jan 2"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -29,7 +29,7 @@ description = """"""
 [[experience]]
   title = "TextXD 2017"
   company = ""
-  company_url = ""
+  company_url = "https://bids.berkeley.edu/events/textxd-conference"
   location = "UC Berkeley"
   date_start = "2017-11-29"
   date_end = "2017-12-01"
@@ -38,7 +38,7 @@ description = """"""
 [[experience]]
   title = "TextXD 2018"
   company = ""
-  company_url = ""
+  company_url = "http://2018.textxd.org/programs/textxd2018/"
   location = "UC Berkeley"
   date_start = "2018-12-05"
   date_end = "2018-12-07"
