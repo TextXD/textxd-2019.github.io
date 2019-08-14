@@ -78,7 +78,7 @@ width: 50%;
 </ul>  
 </div>
 
-<p class="text-center white-font font-weight-5000">Sponsored by:  </p>
+<p class="text-center white-font font-weight-5000"><b>Sponsored by:</b></p>
 {{< figure library="true" src="sponsor.png" height="200" width="600" class="center" lightbox="true" >}}
 <br>
 <br>
