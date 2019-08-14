@@ -62,14 +62,12 @@ width: 50%;
 <body>
 <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/a062a2cae318d30964107a0dc/5c5c4b644791f168f9bbf8aba.js");</script>
 <div>
-<br>
-<br>
-<div style="background-color: rgba(50, 50, 50, 0.2); border: 1px solid #aaa; margin-bottom: 0; padding-bottom: 0; max-width: 1000px; margin-left: auto; margin-right: auto; padding-left: 10pt; padding-right: 10pt">
+<div style="background-color: rgba(50, 50, 50, 0.5); border: 4px solid #aaa; margin-bottom: 0; padding-bottom: 0; max-width: 1000px; margin-left: auto; margin-right: auto; padding-left: 10pt; padding-right: 10pt">
 <h1 class="text-center white-font font-weight-90" style="font-weight: bold">TextXD: Text Analysis Across Domains</h1>
 <h1 class="text-center white-font font-weight-90">Dec. 3 - 6, 2019</h1>
-<p class="text-center white-font font-weight-90">The premier NLP conference at the University of California, Berkeley</p>
+<p class="text-center white-font font-weight-90">The premier NLP conference at the University of California, Berkeley,<br />hosted by the Berkeley Institute for Data Science.</p>
 <!--<br>-->
-<p class="text-center white-font font-weight-5000">Connecting practitioners from various fields in academia, research, and industry, to understand each other's use of text processing data, algorithms, and software. </p>
+<!--<p class="text-center white-font font-weight-5000">Connecting practitioners from various fields in academia, research, and industry, to understand each other's use of text processing data, algorithms, and software. </p>-->
 <!--<br> -->
 <ul style="list-style-type:disc; margin-bottom: 0">
 <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdtf7W9TqIu-_WIfDvCnYHlrRKVQO899lH6xw4wbBb_Jof-hQ/viewform">Call for Submissions</a>: submit an abstract by Sept. 20</li>
