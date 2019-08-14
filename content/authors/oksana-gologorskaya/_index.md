@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: UC Berkeley
+role: UCSF
 
 # Organizations/Affiliations
 organizations:
