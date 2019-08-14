@@ -28,7 +28,7 @@ description = """"""
 
 [[experience]]
   title = "TextXD 2017"
-  company = ""
+  company = "2017 program"
   company_url = "https://bids.berkeley.edu/events/textxd-conference"
 #  location = "UC Berkeley"
   date_start = "2017-11-29"
@@ -37,7 +37,7 @@ description = """"""
 
 [[experience]]
   title = "TextXD 2018"
-  company = ""
+  company = "2018 program"
   company_url = "http://2018.textxd.org/programs/textxd2018/"
 #  location = "UC Berkeley"
   date_start = "2018-12-05"
