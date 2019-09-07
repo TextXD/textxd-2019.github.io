@@ -9,9 +9,14 @@
   weight = 50
 
 [[main]]
+  name = "Call for Submissions"
+  url = "#callsubmissiins"
+  weight = 51
+
+[[main]]
   name = "Subscribe"
   url = "#mailinglist"
-  weight = 51
+  weight = 52
 
 [[main]]
   name = "Organizers"
@@ -28,7 +33,7 @@
   name = "Past Events"
   url = "#experience"
   weight = 60
-  
+
 [[main]]
   name = "Contact"
   url = "#contact"
