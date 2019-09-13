@@ -70,7 +70,7 @@ width: 50%;
 <!--<p class="text-center white-font font-weight-5000">Connecting practitioners from various fields in academia, research, and industry, to understand each other's use of text processing data, algorithms, and software. </p>-->
 <!--<br> -->
 <ul style="list-style-type:disc; margin-bottom: 0">
-<li><a href="/call-for-submissions">Call for Submissions</a>: submit an abstract by Fridy, September 20</li>
+<li><a href="/call-for-submissions">Call for Submissions</a>: submit an abstract by Friday, September 20</li>
 <li>We expect to open general registration for the conference in October.</li>
 <li>Confirmed keynotes: Justin Grimmer (Stanford), Kathleen Carley (CMU), Brandon Stewart (Princeton), and Christopher Potts (Stanford)
 <li> More details on our 2019 program, keynotes, poster sessions, etc. to come - stay tuned.</li>
