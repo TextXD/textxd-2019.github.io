@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Maryam Vareth
+name: Ciera Martinez
 
 # Username (this should match the folder name)
-authors:
-- maryam
+#authors:
+#- maryam
 
 # Is this the primary user of the site?
 superuser: false

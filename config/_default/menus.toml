@@ -4,14 +4,19 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
+  name = "Home"
+  url = "#top"
+  weight = 10
+
+[[main]]
   name = "About"
   url = "#about"
   weight = 50
 
-[[main]]
-  name = "Call for Submissions"
-  url = "#callsubmissiins"
-  weight = 51
+#[[main]]
+#  name = "Call for Submissions"
+#  url = "call-for-submissions"
+#  weight = 51
 
 [[main]]
   name = "Subscribe"

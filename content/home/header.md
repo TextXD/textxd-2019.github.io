@@ -65,14 +65,16 @@ width: 50%;
 <div style="background-color: rgba(50, 50, 50, 0.5); border: 4px solid #aaa; margin-bottom: 0; padding-bottom: 0; max-width: 1000px; margin-left: auto; margin-right: auto; padding-left: 10pt; padding-right: 10pt">
 <h1 class="text-center white-font font-weight-90" style="font-weight: bold">TextXD: Text Analysis Across Domains</h1>
 <h1 class="text-center white-font font-weight-90">Dec. 3 - 6, 2019</h1>
-<p class="text-center white-font font-weight-90">The premier NLP conference at the University of California, Berkeley,<br />hosted by the Berkeley Institute for Data Science.</p>
+<p class="text-center white-font font-weight-90">The premier NLP conference at the University of California, Berkeley.<br />Hosted by the Berkeley Institute for Data Science.</p>
 <!--<br>-->
 <!--<p class="text-center white-font font-weight-5000">Connecting practitioners from various fields in academia, research, and industry, to understand each other's use of text processing data, algorithms, and software. </p>-->
 <!--<br> -->
 <ul style="list-style-type:disc; margin-bottom: 0">
-<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdtf7W9TqIu-_WIfDvCnYHlrRKVQO899lH6xw4wbBb_Jof-hQ/viewform">Call for Submissions</a>: submit an abstract by Sept. 20</li>
+<li><a href="/call-for-submissions">Call for Submissions</a>: submit an abstract by Friday, September 20</li>
+<li>We expect to open general registration for the conference in October.</li>
+<li>Confirmed keynotes: Justin Grimmer (Stanford), Kathleen Carley (CMU), Brandon Stewart (Princeton), and Christopher Potts (Stanford)
+<li> More details on our 2019 program, keynotes, poster sessions, etc. to come - stay tuned.</li>
 <li>Ideas for TextXD 2019? <a href="https://docs.google.com/forms/d/e/1FAIpQLSe9ISpOJ9mn5nx3q2JwsAW_LtHZ2G8RgDLpag9mtXn1aHX_3A/viewform">Complete our feedback survey.</a></li>
-<li> More details on our 2019 program, keynotes, registration, poster sessions, etc. to come - stay tuned.</li>
   <li> <a href="http://2018.textxd.org/programs/textxd2018/">View our 2018 program</a> or <a href="https://www.youtube.com/playlist?list=PLKW2Azk23ZtT4JpKwmfUh8zzJGAkyRk46">watch our 2018 talk videos</a>.
 </ul>  
 </div>
