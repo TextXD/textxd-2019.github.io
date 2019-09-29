@@ -23,11 +23,11 @@ subtitle = ""
 
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
-  
+
   # Background image.
   image = "headers/3.png"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -40,9 +40,9 @@ subtitle = ""
   padding = ["20px", "20px", "20px", "0"]
 
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = ""
- 
+
  # CSS class.
  css_class = ""
 
@@ -66,9 +66,7 @@ width: 50%;
 <h1 class="text-center white-font font-weight-90" style="font-weight: bold">TextXD: Text Analysis Across Domains</h1>
 <h1 class="text-center white-font font-weight-90">Dec. 3 - 6, 2019</h1>
 <p class="text-center white-font font-weight-90">The premier NLP conference at the University of California, Berkeley.<br />Hosted by the Berkeley Institute for Data Science.</p>
-<!--<br>-->
-<!--<p class="text-center white-font font-weight-5000">Connecting practitioners from various fields in academia, research, and industry, to understand each other's use of text processing data, algorithms, and software. </p>-->
-<!--<br> -->
+
 <ul style="list-style-type:disc; margin-bottom: 0">
 <li><a href="/call-for-submissions">Call for Submissions</a>: submit an abstract by Friday, September 20</li>
 <li>We expect to open general registration for the conference in October.</li>
@@ -81,7 +79,8 @@ width: 50%;
 
 <p class="text-center white-font font-weight-5000"><b>Sponsored by:</b></p>
 {{< figure library="true" src="sponsor.png" height="200" width="600" class="center" lightbox="true" >}}
-<br>
+<p class="text-center white-font font-weight-90">Learn more on how to become a TextXD 2019 Sponsor.</p>
+
 <br>
 
 </div>

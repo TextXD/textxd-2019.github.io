@@ -1,18 +1,18 @@
 +++
-# A Recent and Upcoming Talks section created with the Pages widget.
-# This section displays recent talks from `content/talk/`.
+# A Recent Blog Posts section created with the Pages widget.
+# This section displays recent blog posts from `content/post/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
-title = "2019 Agenda"
+title = "Posts"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "talk"
+  page_type = "post"
 
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -29,8 +29,6 @@ subtitle = ""
     category = ""
     publication_type = ""
     exclude_featured = false
-    exclude_past = false
-    exclude_future = false
 
 [design]
   # Toggle between the various page layout types.
