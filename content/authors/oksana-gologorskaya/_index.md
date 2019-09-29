@@ -2,6 +2,8 @@
 # Display name
 name: Oksana Gologorskaya
 
+nameurl: https://profiles.ucsf.edu/oksana.gologorskaya
+
 # Username (this should match the folder name)
 authors:
 - srivastava
@@ -61,7 +63,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:

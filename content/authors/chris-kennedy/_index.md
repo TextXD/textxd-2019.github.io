@@ -2,6 +2,8 @@
 # Display name
 name: Chris Kennedy
 
+nameurl: https://ck37.com/
+
 # Username (this should match the folder name)
 authors:
 - admin
@@ -24,7 +26,7 @@ bio:
 weight: 1
 
 interests:
-- Biostatistics, BIDS, D-Lab 
+- Biostatistics, BIDS, D-Lab
 
 # twitter: "@c3K"
 
@@ -42,7 +44,7 @@ interests:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
@@ -50,4 +52,3 @@ user_groups:
 - Researchers
 - Visitors
 ---
-

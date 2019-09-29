@@ -2,6 +2,8 @@
 # Display name
 name: Caroline Le Pennec
 
+nameurl: https://sites.google.com/berkeley.edu/clpennec
+
 # Username (this should match the folder name)
 authors:
 - caroline
@@ -15,7 +17,7 @@ role: UC Berkeley
 # Organizations/Affiliations
 organizations:
 - name: UC Berkeley
-  url: ""
+  url: "http://violetyao.github.io"
 
 # Short bio (displayed in user profile at end of posts)
 
@@ -23,6 +25,7 @@ weight: 4
 
 interests:
 - Economics
+
 
 education:
   courses:
@@ -61,7 +64,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
@@ -70,4 +73,3 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
