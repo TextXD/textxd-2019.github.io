@@ -8,15 +8,17 @@
   url = "#top"
   weight = 10
 
+
+
 [[main]]
   name = "About"
   url = "#about"
   weight = 50
 
-#[[main]]
-#  name = "Call for Submissions"
-#  url = "call-for-submissions"
-#  weight = 51
+[[main]]
+  name = "19 Agenda"
+  url = "#talks"
+  weight = 51
 
 [[main]]
   name = "Subscribe"
@@ -28,16 +30,16 @@
   url = "#people"
   weight = 70
 
-# Add back in once it's in better shape.
-#[[main]]
-#  name = "2019 Agenda"
-#  url = "#talks"
-#  weight = 65
+[[main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 71
+
 
 [[main]]
   name = "Past Events"
   url = "#experience"
-  weight = 60
+  weight = 75
 
 [[main]]
   name = "Contact"
