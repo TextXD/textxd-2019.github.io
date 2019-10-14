@@ -68,9 +68,10 @@ width: 50%;
 <p class="text-center white-font font-weight-90">The premier NLP conference at the University of California, Berkeley.<br />Hosted by the Berkeley Institute for Data Science.</p>
 
 <ul style="list-style-type:disc; margin-bottom: 0">
-<li><a href="/call-for-submissions">Call for Submissions</a>: submit an abstract by Friday, September 20</li>
+<!--<li><a href="/call-for-submissions">Call for Submissions</a>: submit an abstract by Friday, September 20</li>-->
+<li>Thank you to all who submitted abstracts! They are under review with acceptances to be announced mid-October.</li>
 <li>We expect to open general registration for the conference in October.</li>
-<li>Confirmed keynotes: Justin Grimmer (Stanford), Kathleen Carley (CMU), Brandon Stewart (Princeton), and Christopher Potts (Stanford)
+<li>Keynotes: Justin Grimmer (Stanford), Kathleen Carley (CMU), Brandon Stewart (Princeton), Yunyao Li (IBM), and Christopher Potts (Stanford)</li>
 <li> More details on our 2019 program, keynotes, poster sessions, etc. to come - stay tuned.</li>
 <li>Ideas for TextXD 2019? <a href="https://docs.google.com/forms/d/e/1FAIpQLSe9ISpOJ9mn5nx3q2JwsAW_LtHZ2G8RgDLpag9mtXn1aHX_3A/viewform">Complete our feedback survey.</a></li>
   <li> <a href="http://2018.textxd.org/programs/textxd2018/">View our 2018 program</a> or <a href="https://www.youtube.com/playlist?list=PLKW2Azk23ZtT4JpKwmfUh8zzJGAkyRk46">watch our 2018 talk videos</a>.
