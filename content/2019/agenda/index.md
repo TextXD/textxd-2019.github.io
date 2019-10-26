@@ -3,7 +3,7 @@ title: Welcome to TextXD 2019!
 event: TextXD 2019
 event_url:
 location: Berkeley, CA
-summary: Meet Justin Grimmer (Stanford), Kathleen Carley (CMU), Brandon Stewart (Princeton), Christopher Potts (Stanford), and more...
+summary: TextXD 2019 will take place Tuesday Dec. 3 through Friday Dec. 6 on the U.C. Berkeley campus. 
 abstract:
 
 # Talk start and end times.
