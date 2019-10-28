@@ -8,38 +8,35 @@
   url = "#top"
   weight = 10
 
-
-
 [[main]]
   name = "About"
   url = "#about"
-  weight = 50
+  weight = 20
 
 [[main]]
-  name = "19 Agenda"
+  name = "Program"
   url = "#2019"
-  weight = 51
+  weight = 30
 
 [[main]]
   name = "Subscribe"
   url = "#mailinglist"
-  weight = 52
+  weight = 40
 
 [[main]]
   name = "Organizers"
   url = "#people"
-  weight = 70
+  weight = 50
 
 [[main]]
   name = "Posts"
   url = "#posts"
-  weight = 71
-
+  weight = 60
 
 [[main]]
   name = "Past Events"
   url = "#experience"
-  weight = 75
+  weight = 70
 
 [[main]]
   name = "Contact"
