@@ -57,3 +57,37 @@ math: true
 * We expect to open **general registration** for the conference in October.
 * Confirmed **keynotes**: Justin Grimmer (Stanford), Kathleen Carley (CMU), Brandon Stewart (Princeton), and Christopher Potts (Stanford)
 * More details on our 2019 program, keynotes, poster sessions, etc. to come - stay tuned.
+
+## Day 1: Tuesday, December 3rd (Workshops)
+
+Location: Spieker Forum at Chou Hall
+
+| Time      | Topic  |
+|:----------|:-------|
+|9am - 5pm  | TBC |
+
+## Day 2: Wednesday, December 4th (Talks)
+
+Location: Spieker Forum at Chou Hall
+
+| Time      | Topic  |
+|:----------|:-------|
+|9am - 5pm  | TBC |
+
+## Day 3: Thursday, December 5th (Talks)
+
+Location: Spieker Forum at Chou Hall
+
+| Time      | Topic  |
+|:----------|:-------|
+|9am - 5pm  | TBC |
+
+## Day 4: Friday, December 6th (Collaboration)
+
+Location: Berkeley Institute for Data Science (190 Doe Library)
+
+| Time      | Topic  |
+|:----------|:-------|
+|9am - 5pm  | TBC |
+
+
