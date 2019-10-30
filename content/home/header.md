@@ -71,6 +71,7 @@ width: 50%;
 <!--<li><a href="/call-for-submissions">Call for Submissions</a>: submit an abstract by Friday, September 20</li>-->
 <li><a href="https://textxd2019.eventbrite.com">Register to attend TextXD 2019</a></li>
 <li>Thank you to all who submitted abstracts! They are under review with acceptances to be announced late-October.</li>
+<li> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdCDAHg8mk-3QapoXglj9fofVhc5gXd0bEFOWecaovAmB2bpg/viewform">Apply to present a poster</a> - applications will be reviewed on a rolling basis. </li>
 <li>Keynotes: Justin Grimmer (Stanford), Kathleen Carley (CMU), Brandon Stewart (Princeton), Yunyao Li (IBM), and Christopher Potts (Stanford)</li>
 <li> More details on our 2019 program, keynotes, poster sessions, etc. to come - stay tuned.</li>
 <!--<li>Ideas for TextXD 2019? <a href="https://docs.google.com/forms/d/e/1FAIpQLSe9ISpOJ9mn5nx3q2JwsAW_LtHZ2G8RgDLpag9mtXn1aHX_3A/viewform">Complete our feedback survey.</a></li>
