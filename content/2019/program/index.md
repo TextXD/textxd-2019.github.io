@@ -77,12 +77,12 @@ Our preliminary program is below, although we may make some adjustments in the c
 
 | Day | Date | Focus | Location |
 |:-------|:------|:---------|:---|
-| Day 1 | Tuesday, Dec. 3| Training workshops | Spieker Forum at Chou Hall |
-| Day 2 | Wednesday, Dec. 4 | Talks and posters | Spieker Forum at Chou Hall |
-| Day 3 | Thursday, Dec. 5 | Talks and posters |  Spieker Forum a Chou Hall |
-| Day 4 | Friday, Dec. 6 | Collaboration and coding | BIDS (190 Doe) |
+| Day 1 | <a href="#day1">Tuesday, Dec. 3</a> | Training workshops | Spieker Forum at Chou Hall |
+| Day 2 | <a href="#day2">Wednesday, Dec. 4</a> | Talks and posters | Spieker Forum at Chou Hall |
+| Day 3 | <a href="#day3">Thursday, Dec. 5</a> | Talks and posters |  Spieker Forum a Chou Hall |
+| Day 4 | <a href="#day4">Friday, Dec. 6</a> | Collaboration and coding | BIDS (190 Doe) |
 
-## Day 1: Tuesday, December 3rd (Workshops)
+## <a id="day1">Day 1: Tuesday, December 3rd (Workshops)</a>
 
 Location: Spieker Forum at Chou Hall
 
@@ -103,7 +103,7 @@ These workshops will generally be interactive coding sessions with jupyter noteb
 | 4pm | Deep learning | Dima Lituiev |
 | 5pm | Discussion |
 
-## Day 2: Wednesday, December 4th (Talks)
+## <a id="day2">Day 2: Wednesday, December 4th (Talks)</a>
 
 Location: Spieker Forum at Chou Hall
 
@@ -136,7 +136,7 @@ Location: Spieker Forum at Chou Hall
 
 
 
-## Day 3: Thursday, December 5th (Talks)
+## <a id="day3">Day 3: Thursday, December 5th (Talks)</a>
 
 Location: Spieker Forum at Chou Hall
 
@@ -167,7 +167,7 @@ Location: Spieker Forum at Chou Hall
 | 4:30pm | **Keynote** | Brandon Stewart (Princeton) |
 | 5:30pm | <span class="badge danger">Reception</span> | 
 
-## Day 4: Friday, December 6th (Collaboration)
+## <a id="day4">Day 4: Friday, December 6th (Collaboration)</a>
 
 Location: Berkeley Institute for Data Science (190 Doe Library)
 
