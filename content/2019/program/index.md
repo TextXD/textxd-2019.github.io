@@ -64,6 +64,11 @@ math: true
     background: #f1c40f;
     color: #000;
 }
+
+.badge.danger {
+    background: #e74c3c;
+    color: #fff;
+}
 </style>
 
 Our preliminary program is below, although we may make some adjustments in the coming weeks.
@@ -77,14 +82,14 @@ Location: Spieker Forum at Chou Hall
 | 9am | Breakfast |
 | 9:30am | Welcome |
 | 9:40am | Text as Data Introduction |
-| 10:45am | Web APIs and Scraping |
+| 10:45am | Web APIs and Scraping | Geoff Bacon|
 | 11:30am | <span class="badge warning">Coffee Break</span> |
-| 11:45am | Topic modeling |
+| 11:45am | Topic modeling | Ilya Akdemir |
 | 12:45pm | Lunch |
-| 1:40pm | Word embeddings |
+| 1:40pm | Word embeddings | Alina Arseniev-Koehler |
 | 2:45pm | Supervised machine learning |
 | 3:45pm | <span class="badge warning">Coffee Break</span> |
-| 4pm | Deep learning |
+| 4pm | Deep learning | Dima Lituiev |
 | 5pm | Discussion |
 
 ## Day 2: Wednesday, December 4th (Talks)
@@ -95,17 +100,30 @@ Location: Spieker Forum at Chou Hall
 |:----------|:-------|:--------|
 | 9am | Breakfast |
 | 9:30am | Welcome |
-| 9:40am | Keynote | Chris Potts (Stanford) |
-| 10:30am | Talks | 
+| 9:40am | **Keynote** | Chris Potts (Stanford) |
+| 10:30am | **Session 1 - Innovation** | 
+| | Quantifying Innovation with BERT: Linguistic Prescience and Firm Stock Returns | Paul Vicinanza |
+| | Identifying (Dis)Continuities in Ed Tech's Discourse of Invention | Sebastian Muñoz-Najar Galvez |
 | 11:15am | <span class="badge warning">Coffee Break</span> |
-| 11:30am | Talks | 
-| 12:30pm | Lunch + Poster session |
-| 1:30pm | Keynote | Yunyao Li (IBM) |
-| 2:15pm | Talks | 
+| 11:30am | **Session 2 - Policy** | 
+| | The Effect of Gender Stereotypes on Educational Outcomes in the 1970s: A Historical Case Study | Zachary Bleemer |
+| | Diffusion of Cybersecurity Policies | Nadiya Kostyuk |
+| | NLP approaches to detecting behavioral failures in sustainable transportation infrastructure | Omar Isaac Asensio |
+| 12:30pm | **Lunch + Poster session** |
+| 1:30pm | **Keynote** | Yunyao Li (IBM) |
+| 2:15pm | **Session 3 - Theory and Methods**  | 
+| | Interpreting and improving NLP models via disentangled interpretations | Chandan Singh |
+| | Cross-domain classification | Barea Sinno |
+| | Automated methods enable direct computation on phenotypic descriptions for novel candidate gene prediction | Ian Braun |
 | 3:15pm | <span class="badge warning">Coffee Break</span> |
-| 3:30pm | Talks | 
-| 4:30pm | Keynote | Justin Grimmer (Stanford) |
-| 5:30pm | Reception | 
+| 3:30pm | **Session 4 - Political Science** | 
+| | Detecting Meaningful Multi-word Expressions in Political Text | Kenneth Benoit |
+| | Who speaks for Women in the Indian Parliament? | Saloni Bhogale |
+| | Sentiment is Not Stance: Target-Aware Classification for Political Text Analysis | Samuel E. Bestvater |
+| 4:30pm | **Keynote** | Justin Grimmer (Stanford) |
+| 5:30pm | <span class="badge danger">Reception</span> | 
+
+
 
 ## Day 3: Thursday, December 5th (Talks)
 
@@ -115,17 +133,28 @@ Location: Spieker Forum at Chou Hall
 |:----------|:-------|:--------|
 | 9am | Breakfast |
 | 9:30am | Welcome |
-| 9:40am | Keynote | Kathleen Carley (CMU) |
-| 10:30am | Talks | 
+| 9:40am | **Keynote** | Kathleen Carley (CMU) |
+| 10:30am | **Session 5 - Psychological Threads** | 
+| | "The words of trauma" - Text Analysis of the effect of War World II on Salinger’s literature | Anat Talmon |
+| | "I come before you a changed man": Historical Changes in the Vocabulary of Parole Release Decisions | Isaac Dalke |
 | 11:15am | <span class="badge warning">Coffee Break</span> |
-| 11:30am | Talks | 
-| 12:30pm | Lunch + Poster session |
-| 1:30pm | Lightning Talks | |
-| 2:15pm | Talks | 
+| 11:30am | **Session 6 - Public Health** | 
+| | | Orianna DeMasi |
+| | #Vape: Measuring E-cigarette Influence on Instagram with Deep Learning and Text Analysis | Julia Vassey |
+| | No More Silence: Monitoring Bias with Word2Vec | Lauren Kaplan |
+| 12:30pm | **Lunch + Poster session** |
+| 1:30pm | **Session 7 - Lightning Talks** | |
+| 2:15pm | **Session 8 - Biomedical** | 
+| | Unstructured Text Analysis in Electronic Health Records to Characterize Sepsis Presentation | Meghana Bhimarao |
+| | Extracting patient-reported functional status and disease activity information from electronic health records | Tome Eftimov |
+| | Natural language processing for automated rapid cancer ascertainment | Liyan Liu |
 | 3:15pm | <span class="badge warning">Coffee Break</span> |
-| 3:30pm | Talks | 
-| 4:30pm | Keynote | Brandon Stewart (Princeton) |
-| 5:30pm | Reception | 
+| 3:30pm | **Session 9 - News and Media** | 
+| | | Cody Hennesy |
+| | Media Attention and Bureaucratic Responsiveness | Aaron Erlich |
+| | How Do Threats Shift In-Group Identification?: When Natural Experiments Meet Text Data | Andrew Thompson |
+| 4:30pm | **Keynote** | Brandon Stewart (Princeton) |
+| 5:30pm | <span class="badge danger">Reception</span> | 
 
 ## Day 4: Friday, December 6th (Collaboration)
 
@@ -137,13 +166,13 @@ Theme: **Text Analysis for Social Good**
 |:----------|:-------|:--------|
 | 9am | Breakfast |
 | 9:30am | Welcome |
-| 9:40am | Project introductions | |
-| 10:00am | Coding / collaboration | Pedagogy of Text Analysis I | 
+| 9:40am | **Project introductions** | |
+| 10:00am | Coding / collaboration | Pedagogy of Text Analysis - Evan Muzzall | 
 | 11am | <span class="badge warning">Coffee Break</span> |
-| 11:15am | Coding / collaboration | Pedagogy of Text Analysis II | 
-| 12:30pm | Lunch |
-| 1:30pm | Coding / collaboration | |
+| 11:15am | Coding / collaboration | Research Priorities for Text Analysis | 
+| 12:30pm | **Lunch** |
+| 1:30pm | Coding / collaboration | Cross-disciplinary Software Needs |
 | 3:00pm | <span class="badge warning">Coffee Break</span> |
 | 3:15pm | Coding / collaboration | |
-| 5:00pm | Report back & conference close | 
+| 5:00pm | **Report back & conference close** | 
 
