@@ -73,6 +73,15 @@ math: true
 
 Our preliminary program is below, although we may make some adjustments in the coming weeks.
 
+## Program Overview
+
+| Day | Date | Focus | Location |
+|:-------|:------|:---------|:---|
+| Day 1 | Tuesday, Dec. 3| Training workshops | Spieker Forum at Chou Hall |
+| Day 2 | Wednesday, Dec. 4 | Talks and posters | Spieker Forum at Chou Hall |
+| Day 3 | Thursday, Dec. 5 | Talks and posters |  Spieker Forum a Chou Hall |
+| Day 4 | Friday, Dec. 6 | Collaboration and coding | BIDS (190 Doe) |
+
 ## Day 1: Tuesday, December 3rd (Workshops)
 
 Location: Spieker Forum at Chou Hall
