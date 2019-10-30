@@ -93,7 +93,7 @@ These workshops will generally be interactive coding sessions with jupyter noteb
 | 9am | Breakfast |
 | 9:30am | Welcome |
 | 9:40am | Text as Data Introduction |
-| 10:45am | Web APIs and Scraping | Geoff Bacon|
+| 10:35am | Web APIs and Scraping | Geoff Bacon|
 | 11:30am | <span class="badge warning">Coffee Break</span> |
 | 11:45am | Topic modeling | Ilya Akdemir |
 | 12:45pm | Lunch |
