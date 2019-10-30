@@ -182,8 +182,8 @@ Theme: **Text Analysis for Social Good**
 | 11am | <span class="badge warning">Coffee Break</span> |
 | 11:15am | Coding / collaboration | Research Priorities for Text Analysis | 
 | 12:30pm | **Lunch** |
-| 1:30pm | Coding / collaboration | Cross-disciplinary Software Needs |
+| 1:30pm | Coding / collaboration | Ethics in NLP |
 | 3:00pm | <span class="badge warning">Coffee Break</span> |
-| 3:15pm | Coding / collaboration | |
+| 3:15pm | Coding / collaboration | Cross-disciplinary Software Needs |
 | 5:00pm | **Report back & conference close** | 
 
