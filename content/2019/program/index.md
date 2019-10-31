@@ -86,7 +86,7 @@ Our preliminary program is below, although we may make some adjustments in the c
 
 Location: Spieker Forum at Chou Hall
 
-These workshops will generally be interactive coding sessions with jupyter notebooks, so we strongly recommend bringing a laptop with a working installation of Anaconda. No prior experience with text analysis is assumed.
+These workshops will generally be interactive coding sessions with jupyter notebooks, so we strongly recommend bringing a laptop with a working installation of [Anaconda](https://www.anaconda.com/distribution/#download-section) / Python. No prior experience with text analysis is assumed.
 
 | Time      | Topic  | Speaker | Institution |
 |:----------|:-------|:--------|:------------|
