@@ -88,19 +88,19 @@ Location: Spieker Forum at Chou Hall
 
 These workshops will generally be interactive coding sessions with jupyter notebooks, so we strongly recommend bringing a laptop with a working installation of Anaconda. No prior experience with text analysis is assumed.
 
-| Time      | Topic  | Speaker |
-|:----------|:-------|:--------|
+| Time      | Topic  | Speaker | Institution |
+|:----------|:-------|:--------|:------------|
 | 9am | Breakfast |
 | 9:30am | Welcome |
 | 9:40am | Text as Data Introduction |
-| 10:35am | Web APIs and Scraping | Geoff Bacon|
+| 10:35am | Web APIs and Scraping | Geoff Bacon | UC Berkeley, Linguistics |
 | 11:30am | <span class="badge warning">Coffee Break</span> |
-| 11:45am | Topic modeling | Ilya Akdemir |
+| 11:45am | Topic modeling | Ilya Akdemir | UC Berkeley, Law |
 | 12:45pm | Lunch |
-| 1:40pm | Word embeddings | Alina Arseniev-Koehler |
+| 1:40pm | Word embeddings | Alina Arseniev-Koehler | UCLA, Sociology |
 | 2:45pm | Supervised machine learning |
 | 3:45pm | <span class="badge warning">Coffee Break</span> |
-| 4pm | Deep learning | Dima Lituiev |
+| 4pm | Deep learning | Dima Lituiev | UC San Francisco, Bakar Computational Health Sciences Institute |
 | 5pm | Discussion |
 
 ## <a id="day2">Day 2: Wednesday, December 4th (Talks)</a>
@@ -114,23 +114,23 @@ Location: Spieker Forum at Chou Hall
 | 9:40am | **Keynote** | Chris Potts | Stanford University, Linguistics |
 | 10:30am | **Session 1 - Innovation** | 
 | | Quantifying Innovation with BERT: Linguistic Prescience and Firm Stock Returns | Paul Vicinanza | Stanford University, Graduate School of Business | 
-| | Identifying (Dis)Continuities in Ed Tech's Discourse of Invention | Sebastian Muñoz-Najar Galvez | Stanford Graduate School of Education | 
+| | Identifying (Dis)Continuities in Ed Tech's Discourse of Invention | Sebastian Muñoz-Najar Galvez | Stanford University, Graduate School of Education | 
 | 11:15am | <span class="badge warning">Coffee Break</span> |
 | 11:30am | **Session 2 - Policy** | 
 | | The Effect of Gender Stereotypes on Educational Outcomes in the 1970s: A Historical Case Study | Zachary Bleemer | UC Berkeley, Economics |
-| | Diffusion of Cybersecurity Policies | Nadiya Kostyuk | University of Michigan |
-| | NLP approaches to detecting behavioral failures in sustainable transportation infrastructure | Omar Isaac Asensio | Georgia Institute of Technology |
+| | Diffusion of Cybersecurity Policies | Nadiya Kostyuk | University of Michigan, Political Science |
+| | NLP approaches to detecting behavioral failures in sustainable transportation infrastructure | Omar Isaac Asensio | Georgia Institute of Technology, Public Policy |
 | 12:30pm | **Lunch + Poster session** |
-| 1:30pm | **Keynote** | Yunyao Li | IBM |
+| 1:30pm | **Keynote** | Yunyao Li | IBM, Scalable Knowledge Intelligence |
 | 2:15pm | **Session 3 - Theory and Methods**  | 
-| | Interpreting and improving NLP models via disentangled interpretations | Chandan Singh | UC Berkeley Computer Science |
+| | Interpreting and improving NLP models via disentangled interpretations | Chandan Singh | UC Berkeley, Computer Science |
 | | Cross-domain classification | Barea Sinno | University of Texas at Austin, Ohio State University |
-| | Automated methods enable direct computation on phenotypic descriptions for novel candidate gene prediction | Ian Braun | Iowa State University |
+| | Automated methods enable direct computation on phenotypic descriptions for novel candidate gene prediction | Ian Braun | Iowa State University, Computational Biology |
 | 3:15pm | <span class="badge warning">Coffee Break</span> |
 | 3:30pm | **Session 4 - Political Science** | 
-| | Detecting Meaningful Multi-word Expressions in Political Text | Kenneth Benoit | London School of Economics |
-| | Who speaks for Women in the Indian Parliament? | Saloni Bhogale | Ashoka University |
-| | Sentiment is Not Stance: Target-Aware Classification for Political Text Analysis | Samuel E. Bestvater | The Pennsylvania State University |
+| | Detecting Meaningful Multi-word Expressions in Political Text | Kenneth Benoit | London School of Economics, Methodology |
+| | Who speaks for Women in the Indian Parliament? | Saloni Bhogale | Ashoka University, Trivedi Centre |
+| | Sentiment is Not Stance: Target-Aware Classification for Political Text Analysis | Samuel E. Bestvater | The Pennsylvania State University, Political Science |
 | 4:30pm | **Keynote** | Justin Grimmer | Stanford University, Political Science |
 | 5:30pm | <span class="badge danger">Reception</span> | 
 
@@ -144,33 +144,33 @@ Location: Spieker Forum at Chou Hall
 |:----------|:-------|:--------|:------------|
 | 9am | Breakfast |
 | 9:30am | Welcome |
-| 9:40am | **Keynote** | Kathleen Carley | Carnegie Mellon University |
+| 9:40am | **Keynote** | Kathleen Carley | Carnegie Mellon University, Computer Science |
 | 10:30am | **Session 5 - Psychological Threads** | 
 | | "The words of trauma" - Text Analysis of the effect of War World II on Salinger’s literature | Anat Talmon | Stanford University, Psychology |
 | | "I come before you a changed man": Historical Changes in the Vocabulary of Parole Release Decisions | Isaac Dalke | UC Berkeley, Sociology |
 | 11:15am | <span class="badge warning">Coffee Break</span> |
 | 11:30am | **Session 6 - Public Health** | 
 | | | Orianna DeMasi | UC Berkeley, Computer Science |
-| | #Vape: Measuring E-cigarette Influence on Instagram with Deep Learning and Text Analysis | Julia Vassey | UC Berkeley, School of Public Health |
-| | No More Silence: Monitoring Bias with Word2Vec | Lauren Kaplan | University of California, San Francisco |
+| | #Vape: Measuring E-cigarette Influence on Instagram with Deep Learning and Text Analysis | Julia Vassey | UC Berkeley, Public Health |
+| | No More Silence: Monitoring Bias with Word2Vec | Lauren Kaplan | UC San Francisco, Medicine |
 | 12:30pm | **Lunch + Poster session** |
 | 1:30pm | **Session 7 - Lightning Talks** | |
-| | Hidden Political Dynasties in China: Analyzing Chinese Baby Names as Ultra-Short Political Text Data | Tao Li  | University of Macau |
-| | Place-level discrimination and birth outcomes | Thu Nguyen | University of California, San Francisco |
-| | Are both policemen and policewomen police officers? The gender connotations of gender-fair language | Alina Arseniev-Koehler | University of California, Los Angeles |
-| | Corporate Elite Cohesion and Time-Horizons: Results from Earnings Calls Transcripts | Richard Benton | University of Illinois |
-| | Machine-learning Political Event Database System | Alex Hanna | Google |
-| | A pipeline for analyzing Akkadian texts | Aleksi Sahala | University of Helsinki |
-| | Application of text mining methods to identify lupus nephritis from electronic health records | Milena Gianfrancesco | University of California, San Francisco |
+| | Hidden Political Dynasties in China: Analyzing Chinese Baby Names as Ultra-Short Political Text Data | Tao Li  | University of Macau, Government & Public Administration |
+| | Place-level discrimination and birth outcomes | Thu Nguyen | UC San Francisco, Epidemiology & Biostatistics |
+| | Are both policemen and policewomen police officers? The gender connotations of gender-fair language | Alina Arseniev-Koehler | UCLA, Sociology |
+| | Corporate Elite Cohesion and Time-Horizons: Results from Earnings Calls Transcripts | Richard Benton | University of Illinois, Labor & Employment Relations |
+| | Machine-learning Political Event Database System | Alex Hanna | Google, ML Fairness |
+| | A pipeline for analyzing Akkadian texts | Aleksi Sahala | University of Helsinki, Linguistics |
+| | Application of text mining methods to identify lupus nephritis from electronic health records | Milena Gianfrancesco | UC San Francisco, Medicine |
 | 2:15pm | **Session 8 - Biomedical** | 
 | | Unstructured Text Analysis in Electronic Health Records to Characterize Sepsis Presentation | Meghana Bhimarao | Kaiser Permanente, Division of Research |
-| | Extracting patient-reported functional status and disease activity information from electronic health records | Tome Eftimov | Stanford University |
-| | Natural language processing for automated rapid cancer ascertainment | Liyan Liu | Kaiser Permanente |
+| | Extracting patient-reported functional status and disease activity information from electronic health records | Tome Eftimov | Stanford University, Biomedical Data Science |
+| | Natural language processing for automated rapid cancer ascertainment | Liyan Liu | Kaiser Permanente, Division of Research |
 | 3:15pm | <span class="badge warning">Coffee Break</span> |
 | 3:30pm | **Session 9 - News and Media** | 
-| | "Downloading" the news: Reproducible access to text as data | Cody Hennesy | University of Minnesota |
-| | Media Attention and Bureaucratic Responsiveness | Aaron Erlich | McGill University |
-| | How Do Threats Shift In-Group Identification?: When Natural Experiments Meet Text Data | Andrew Thompson | Massachusetts Institute of Technology |
+| | "Downloading" the news: Reproducible access to text as data | Cody Hennesy | University of Minnesota, Libraries |
+| | Media Attention and Bureaucratic Responsiveness | Aaron Erlich | McGill University, Political Science |
+| | How Do Threats Shift In-Group Identification?: When Natural Experiments Meet Text Data | Andrew Thompson | Massachusetts Institute of Technology, Political Science |
 | 4:30pm | **Keynote** | Brandon Stewart | Princeton University, Sociology |
 | 5:30pm | <span class="badge danger">Reception</span> | 
 
