@@ -127,7 +127,7 @@ Location: Spieker Forum at Chou Hall
 | | Cross-domain classification | Barea Sinno | University of Texas at Austin, Ohio State University |
 | | Automated methods enable direct computation on phenotypic descriptions for novel candidate gene prediction | Ian Braun | Iowa State University, Computational Biology |
 | 3:15pm | <span class="badge warning">Coffee Break</span> |
-| 3:30pm | **Session 4 - Politics ** | 
+| 3:30pm | **Session 4 - Politics** | 
 | | Detecting Meaningful Multi-word Expressions in Political Text | Kenneth Benoit | London School of Economics, Methodology |
 | | Who speaks for Women in the Indian Parliament? | Saloni Bhogale | Ashoka University, Trivedi Centre |
 | | Sentiment is Not Stance: Target-Aware Classification for Political Text Analysis | Samuel E. Bestvater | The Pennsylvania State University, Political Science |
