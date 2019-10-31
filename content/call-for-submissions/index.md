@@ -16,7 +16,7 @@ subtitle: ""
 
 ---
 
-### [Submit an abstract](https://docs.google.com/forms/d/e/1FAIpQLSdtf7W9TqIu-_WIfDvCnYHlrRKVQO899lH6xw4wbBb_Jof-hQ/viewform) by Sept. 20
+### [Submit a poster abstract](https://docs.google.com/forms/d/e/1FAIpQLSdCDAHg8mk-3QapoXglj9fofVhc5gXd0bEFOWecaovAmB2bpg/viewform) by November 25.
 
 TextXD brings together researchers from across a wide range of disciplines, who work with text as a primary source of data. We work to identify common principles, algorithms and tools to advance text-intensive research, and break down the boundaries between domains, to foster exchange and new collaborations among like-minded researchers. We encourage scholars and practitioners from a broad disciplinary and geographic range to apply. <strong>Talks</strong> will range from the theory of text analysis and deep learning to applied analyses or new software packages. 
 
