@@ -127,7 +127,7 @@ Location: Spieker Forum at Chou Hall
 | | Cross-domain classification | Barea Sinno | University of Texas at Austin, Ohio State University |
 | | Automated methods enable direct computation on phenotypic descriptions for novel candidate gene prediction | Ian Braun | Iowa State University, Computational Biology |
 | 3:15pm | <span class="badge warning">Coffee Break</span> |
-| 3:30pm | **Session 4 - Political Science** | 
+| 3:30pm | **Session 4 - Politics ** | 
 | | Detecting Meaningful Multi-word Expressions in Political Text | Kenneth Benoit | London School of Economics, Methodology |
 | | Who speaks for Women in the Indian Parliament? | Saloni Bhogale | Ashoka University, Trivedi Centre |
 | | Sentiment is Not Stance: Target-Aware Classification for Political Text Analysis | Samuel E. Bestvater | The Pennsylvania State University, Political Science |
@@ -146,7 +146,7 @@ Location: Spieker Forum at Chou Hall
 | 9:30am | Welcome |
 | 9:40am | **Keynote** | Kathleen Carley | Carnegie Mellon University, Computer Science |
 | 10:30am | **Session 5 - Psychological Threads** | 
-| | "The words of trauma" - Text Analysis of the effect of War World II on Salinger’s literature | Anat Talmon | Stanford University, Psychology |
+| | "The words of trauma" - Text Analysis of the effect of War World II on Salinger’s literature | Anat Talmon, Chen Edelsburg | Stanford University, Psychology and Tel Aviv University |
 | | "I come before you a changed man": Historical Changes in the Vocabulary of Parole Release Decisions | Isaac Dalke | UC Berkeley, Sociology |
 | 11:15am | <span class="badge warning">Coffee Break</span> |
 | 11:30am | **Session 6 - Public Health** | 
