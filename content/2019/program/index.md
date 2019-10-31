@@ -107,31 +107,31 @@ These workshops will generally be interactive coding sessions with jupyter noteb
 
 Location: Spieker Forum at Chou Hall
 
-| Time      | Topic  | Speaker |
-|:----------|:-------|:--------|
+| Time      | Topic  | Speaker | Institution |
+|:----------|:-------|:--------|:------------|
 | 9am | Breakfast |
 | 9:30am | Welcome |
-| 9:40am | **Keynote** | Chris Potts (Stanford) |
+| 9:40am | **Keynote** | Chris Potts | Stanford University, Linguistics |
 | 10:30am | **Session 1 - Innovation** | 
-| | Quantifying Innovation with BERT: Linguistic Prescience and Firm Stock Returns | Paul Vicinanza |
-| | Identifying (Dis)Continuities in Ed Tech's Discourse of Invention | Sebastian Muñoz-Najar Galvez |
+| | Quantifying Innovation with BERT: Linguistic Prescience and Firm Stock Returns | Paul Vicinanza | Stanford University, Graduate School of Business | 
+| | Identifying (Dis)Continuities in Ed Tech's Discourse of Invention | Sebastian Muñoz-Najar Galvez | Stanford Graduate School of Education | 
 | 11:15am | <span class="badge warning">Coffee Break</span> |
 | 11:30am | **Session 2 - Policy** | 
-| | The Effect of Gender Stereotypes on Educational Outcomes in the 1970s: A Historical Case Study | Zachary Bleemer |
-| | Diffusion of Cybersecurity Policies | Nadiya Kostyuk |
-| | NLP approaches to detecting behavioral failures in sustainable transportation infrastructure | Omar Isaac Asensio |
+| | The Effect of Gender Stereotypes on Educational Outcomes in the 1970s: A Historical Case Study | Zachary Bleemer | UC Berkeley, Economics |
+| | Diffusion of Cybersecurity Policies | Nadiya Kostyuk | University of Michigan |
+| | NLP approaches to detecting behavioral failures in sustainable transportation infrastructure | Omar Isaac Asensio | Georgia Institute of Technology |
 | 12:30pm | **Lunch + Poster session** |
-| 1:30pm | **Keynote** | Yunyao Li (IBM) |
+| 1:30pm | **Keynote** | Yunyao Li | IBM |
 | 2:15pm | **Session 3 - Theory and Methods**  | 
-| | Interpreting and improving NLP models via disentangled interpretations | Chandan Singh |
-| | Cross-domain classification | Barea Sinno |
-| | Automated methods enable direct computation on phenotypic descriptions for novel candidate gene prediction | Ian Braun |
+| | Interpreting and improving NLP models via disentangled interpretations | Chandan Singh | UC Berkeley Computer Science |
+| | Cross-domain classification | Barea Sinno | University of Texas at Austin, Ohio State University |
+| | Automated methods enable direct computation on phenotypic descriptions for novel candidate gene prediction | Ian Braun | Iowa State University |
 | 3:15pm | <span class="badge warning">Coffee Break</span> |
 | 3:30pm | **Session 4 - Political Science** | 
-| | Detecting Meaningful Multi-word Expressions in Political Text | Kenneth Benoit |
-| | Who speaks for Women in the Indian Parliament? | Saloni Bhogale |
-| | Sentiment is Not Stance: Target-Aware Classification for Political Text Analysis | Samuel E. Bestvater |
-| 4:30pm | **Keynote** | Justin Grimmer (Stanford) |
+| | Detecting Meaningful Multi-word Expressions in Political Text | Kenneth Benoit | London School of Economics |
+| | Who speaks for Women in the Indian Parliament? | Saloni Bhogale | Ashoka University |
+| | Sentiment is Not Stance: Target-Aware Classification for Political Text Analysis | Samuel E. Bestvater | The Pennsylvania State University |
+| 4:30pm | **Keynote** | Justin Grimmer | Stanford University, Political Science |
 | 5:30pm | <span class="badge danger">Reception</span> | 
 
 
@@ -140,31 +140,38 @@ Location: Spieker Forum at Chou Hall
 
 Location: Spieker Forum at Chou Hall
 
-| Time      | Topic  | Speaker |
-|:----------|:-------|:--------|
+| Time      | Topic  | Speaker | Institution |
+|:----------|:-------|:--------|:------------|
 | 9am | Breakfast |
 | 9:30am | Welcome |
-| 9:40am | **Keynote** | Kathleen Carley (CMU) |
+| 9:40am | **Keynote** | Kathleen Carley | Carnegie Mellon University |
 | 10:30am | **Session 5 - Psychological Threads** | 
-| | "The words of trauma" - Text Analysis of the effect of War World II on Salinger’s literature | Anat Talmon |
-| | "I come before you a changed man": Historical Changes in the Vocabulary of Parole Release Decisions | Isaac Dalke |
+| | "The words of trauma" - Text Analysis of the effect of War World II on Salinger’s literature | Anat Talmon | Stanford University, Psychology |
+| | "I come before you a changed man": Historical Changes in the Vocabulary of Parole Release Decisions | Isaac Dalke | UC Berkeley, Sociology |
 | 11:15am | <span class="badge warning">Coffee Break</span> |
 | 11:30am | **Session 6 - Public Health** | 
-| | | Orianna DeMasi |
-| | #Vape: Measuring E-cigarette Influence on Instagram with Deep Learning and Text Analysis | Julia Vassey |
-| | No More Silence: Monitoring Bias with Word2Vec | Lauren Kaplan |
+| | | Orianna DeMasi | UC Berkeley, Computer Science |
+| | #Vape: Measuring E-cigarette Influence on Instagram with Deep Learning and Text Analysis | Julia Vassey | UC Berkeley, School of Public Health |
+| | No More Silence: Monitoring Bias with Word2Vec | Lauren Kaplan | University of California, San Francisco |
 | 12:30pm | **Lunch + Poster session** |
 | 1:30pm | **Session 7 - Lightning Talks** | |
+| | Hidden Political Dynasties in China: Analyzing Chinese Baby Names as Ultra-Short Political Text Data | Tao Li  | University of Macau |
+| | Place-level discrimination and birth outcomes | Thu Nguyen | University of California, San Francisco |
+| | Are both policemen and policewomen police officers? The gender connotations of gender-fair language | Alina Arseniev-Koehler | University of California, Los Angeles |
+| | Corporate Elite Cohesion and Time-Horizons: Results from Earnings Calls Transcripts | Richard Benton | University of Illinois |
+| | Machine-learning Political Event Database System | Alex Hanna | Google |
+| | A pipeline for analyzing Akkadian texts | Aleksi Sahala | University of Helsinki |
+| | Application of text mining methods to identify lupus nephritis from electronic health records | Milena Gianfrancesco | University of California, San Francisco |
 | 2:15pm | **Session 8 - Biomedical** | 
-| | Unstructured Text Analysis in Electronic Health Records to Characterize Sepsis Presentation | Meghana Bhimarao |
-| | Extracting patient-reported functional status and disease activity information from electronic health records | Tome Eftimov |
-| | Natural language processing for automated rapid cancer ascertainment | Liyan Liu |
+| | Unstructured Text Analysis in Electronic Health Records to Characterize Sepsis Presentation | Meghana Bhimarao | Kaiser Permanente, Division of Research |
+| | Extracting patient-reported functional status and disease activity information from electronic health records | Tome Eftimov | Stanford University |
+| | Natural language processing for automated rapid cancer ascertainment | Liyan Liu | Kaiser Permanente |
 | 3:15pm | <span class="badge warning">Coffee Break</span> |
 | 3:30pm | **Session 9 - News and Media** | 
-| | | Cody Hennesy |
-| | Media Attention and Bureaucratic Responsiveness | Aaron Erlich |
-| | How Do Threats Shift In-Group Identification?: When Natural Experiments Meet Text Data | Andrew Thompson |
-| 4:30pm | **Keynote** | Brandon Stewart (Princeton) |
+| | "Downloading" the news: Reproducible access to text as data | Cody Hennesy | University of Minnesota |
+| | Media Attention and Bureaucratic Responsiveness | Aaron Erlich | McGill University |
+| | How Do Threats Shift In-Group Identification?: When Natural Experiments Meet Text Data | Andrew Thompson | Massachusetts Institute of Technology |
+| 4:30pm | **Keynote** | Brandon Stewart | Princeton University, Sociology |
 | 5:30pm | <span class="badge danger">Reception</span> | 
 
 ## <a id="day4">Day 4: Friday, December 6th (Collaboration)</a>
