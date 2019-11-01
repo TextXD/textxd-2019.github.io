@@ -150,7 +150,7 @@ Location: Spieker Forum at Chou Hall
 | | "I come before you a changed man": Historical Changes in the Vocabulary of Parole Release Decisions | Isaac Dalke | UC Berkeley, Sociology |
 | 11:15am | <span class="badge warning">Coffee Break</span> |
 | 11:30am | **Session 6 - Public Health** | 
-| | NLP for conversational dialog | Orianna DeMasi | UC Berkeley, Computer Science |
+| | NLP for conversational dialog | Orianna DeMasi | UC Davis, Computer Science |
 | | #Vape: Measuring E-cigarette Influence on Instagram with Deep Learning and Text Analysis | Julia Vassey | UC Berkeley, Public Health |
 | | No More Silence: Monitoring Bias with Word2Vec | Lauren Kaplan | UC San Francisco, Medicine |
 | 12:30pm | **Lunch + Poster session** |
