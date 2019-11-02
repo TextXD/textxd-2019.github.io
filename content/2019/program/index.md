@@ -73,6 +73,7 @@ math: true
 
 Our preliminary program is below, although we may make some adjustments in the coming weeks.
 
+
 ## Program Overview
 
 | Day | Date | Focus | Location |
@@ -81,6 +82,9 @@ Our preliminary program is below, although we may make some adjustments in the c
 | Day 2 | <a href="#day2">Wednesday, Dec. 4</a> | Talks and posters | Spieker Forum at Chou Hall |
 | Day 3 | <a href="#day3">Thursday, Dec. 5</a> | Talks and posters |  Spieker Forum a Chou Hall |
 | Day 4 | <a href="#day4">Friday, Dec. 6</a> | Collaboration and coding | BIDS (190 Doe) |
+
+
+[**Register for TextXD 2019**](https://textxd2019.eventbrite.com/) - [**Submit a poster application**](https://docs.google.com/forms/d/e/1FAIpQLSdCDAHg8mk-3QapoXglj9fofVhc5gXd0bEFOWecaovAmB2bpg/viewform)
 
 ## <a id="day1">Day 1: Tuesday, December 3rd (Workshops)</a>
 
