@@ -180,17 +180,19 @@ Location: Berkeley Institute for Data Science (190 Doe Library)
 
 Theme: **Text Analysis for Social Good**
 
+Day 4 will be at BIDS and will include a hackathon component as well as parallel breakdown sessions for discussing major issues in text analysis / NLP. The hackathon will feature multiple projects with associated datasets and starter jupyter notebooks. Participants will form teams and apply text analysis methods of their choice, potentially leading to future research collaborations. Breakdown sessions will feature introductory presentations followed by facilitated discussions leading to summary recommendations on the chosen topic.
+
 | Time      | Topic  | Breakout session(s) |
 |:----------|:-------|:--------|
 | 9am | Breakfast |
 | 9:30am | Welcome |
-| 9:40am | **Project introductions** | |
-| 10:00am | Coding / collaboration | Pedagogy of Text Analysis - Evan Muzzall | 
+| 9:40am | **Project introductions** |  |
+| 10:00am | Coding / collaboration | Text Analysis for Social Good  | 
 | 11am | <span class="badge warning">Coffee Break</span> |
-| 11:15am | Coding / collaboration | Research Priorities for Text Analysis | 
+| 11:15am | Coding / collaboration | Pedagogy of Text Analysis - Evan Muzzall | 
 | 12:30pm | **Lunch** |
 | 1:30pm | Coding / collaboration | Ethics in NLP |
 | 3:00pm | <span class="badge warning">Coffee Break</span> |
-| 3:15pm | Coding / collaboration | Cross-disciplinary Software Needs |
+| 3:15pm | Coding / collaboration | Surfacing Under-resourced Research Priorities|
 | 5:00pm | **Report back & conference close** | 
 
