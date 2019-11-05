@@ -122,7 +122,7 @@ Location: Spieker Forum at Chou Hall
 | 11:15am | <span class="badge warning">Coffee Break</span> |
 | 11:30am | **Session 2 - Policy** | 
 | | The Effect of Gender Stereotypes on Educational Outcomes in the 1970s: A Historical Case Study | Zachary Bleemer | UC Berkeley, Economics |
-| | Diffusion of Cybersecurity Policies | Nadiya Kostyuk | University of Michigan, Political Science |
+| | Place-level discrimination and birth outcomes | Thu Nguyen | UC San Francisco, Epidemiology & Biostatistics |
 | | NLP approaches to detecting behavioral failures in sustainable transportation infrastructure | Omar Isaac Asensio | Georgia Institute of Technology, Public Policy |
 | 12:30pm | **Lunch + Poster session** |
 | 1:30pm | **Keynote** | Yunyao Li | IBM, Scalable Knowledge Intelligence |
@@ -160,7 +160,6 @@ Location: Spieker Forum at Chou Hall
 | 12:30pm | **Lunch + Poster session** |
 | 1:30pm | **Session 7 - Lightning Talks** | |
 | | Hidden Political Dynasties in China: Analyzing Chinese Baby Names as Ultra-Short Political Text Data | Tao Li  | University of Macau, Government & Public Administration |
-| | Place-level discrimination and birth outcomes | Thu Nguyen | UC San Francisco, Epidemiology & Biostatistics |
 | | Are both policemen and policewomen police officers? The gender connotations of gender-fair language | Alina Arseniev-Koehler | UCLA, Sociology |
 | | Corporate Elite Cohesion and Time-Horizons: Results from Earnings Calls Transcripts | Richard Benton | University of Illinois, Labor & Employment Relations |
 | | Machine-learning Political Event Database System | Alex Hanna | Google, ML Fairness |
