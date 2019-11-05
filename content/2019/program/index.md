@@ -191,12 +191,12 @@ Day 4 will be at BIDS and will include a hackathon component as well as parallel
 | 9am | Breakfast |
 | 9:30am | Welcome |
 | 9:40am | **Project introductions** |  |
-| 10:00am | Coding / collaboration | Text Analysis for Social Good  | 
+| 10:00am | Coding / collaboration | Pedagogy of Text Analysis - Evan Muzzall | 
 | 11am | <span class="badge warning">Coffee Break</span> |
-| 11:15am | Coding / collaboration | Pedagogy of Text Analysis - Evan Muzzall | 
+| 11:15am | Coding / collaboration | Text Analysis for Social Good | 
 | 12:30pm | **Lunch** |
-| 1:30pm | Coding / collaboration | Ethics in NLP |
+| 1:30pm | Coding / collaboration | TextXD 2020 priorities |
 | 3:00pm | <span class="badge warning">Coffee Break</span> |
-| 3:15pm | Coding / collaboration | Surfacing Under-resourced Research Priorities|
-| 5:00pm | **Report back & conference close** | 
+| 3:15pm | Coding / collaboration | 
+| 4:30pm | **Report back & conference close** | 
 
