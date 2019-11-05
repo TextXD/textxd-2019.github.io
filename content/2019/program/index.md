@@ -184,7 +184,7 @@ Location: Berkeley Institute for Data Science (190 Doe Library)
 
 Theme: **Text Analysis for Social Good**
 
-Day 4 will be at BIDS and will include a hackathon component as well as parallel breakdown sessions for discussing major issues in text analysis / NLP. The hackathon will feature multiple projects with associated datasets and starter jupyter notebooks. Participants will form teams and apply text analysis methods of their choice, potentially leading to future research collaborations. Breakdown sessions will feature introductory presentations followed by facilitated discussions leading to summary recommendations on the chosen topic.
+Day 4 will be at BIDS and will include a hackathon component as well as parallel breakout sessions for discussing major issues in text analysis / NLP. The hackathon will feature multiple projects with associated datasets and starter jupyter notebooks. Participants will form teams and apply text analysis methods of their choice, potentially leading to future research collaborations. Breakdown sessions will feature introductory presentations followed by facilitated discussions leading to summary recommendations on the chosen topic.
 
 | Time      | Topic  | Breakout session(s) |
 |:----------|:-------|:--------|
