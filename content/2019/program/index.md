@@ -125,7 +125,7 @@ Location: Spieker Forum at Chou Hall
 | | Place-level discrimination and birth outcomes | Thu Nguyen | UC San Francisco, Epidemiology & Biostatistics |
 | | NLP approaches to detecting behavioral failures in sustainable transportation infrastructure | Omar Isaac Asensio | Georgia Institute of Technology, Public Policy |
 | 12:30pm | **Lunch + Poster session** |
-| 1:30pm | **Keynote** | Yunyao Li | IBM, Scalable Knowledge Intelligence |
+| 1:30pm | **Keynote**: Towards Universal Language Understanding | Yunyao Li | IBM, Scalable Knowledge Intelligence |
 | 2:15pm | **Session 3 - Theory and Methods**  | 
 | | Interpreting and improving NLP models via disentangled interpretations | Chandan Singh | UC Berkeley, Computer Science |
 | | Cross-domain classification | Barea Sinno | University of Texas at Austin, Ohio State University |
