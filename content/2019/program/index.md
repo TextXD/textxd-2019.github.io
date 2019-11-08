@@ -161,11 +161,10 @@ Location: Spieker Forum at Chou Hall
 | 1:30pm | **Session 7 - Lightning Talks** | |
 | | Hidden Political Dynasties in China: Analyzing Chinese Baby Names as Ultra-Short Political Text Data | Tao Li  | University of Macau, Government & Public Administration |
 | | Are both policemen and policewomen police officers? The gender connotations of gender-fair language | Alina Arseniev-Koehler | UCLA, Sociology |
-| | Corporate Elite Cohesion and Time-Horizons: Results from Earnings Calls Transcripts | Richard Benton | University of Illinois, Labor & Employment Relations |
 | | Machine-learning Political Event Database System | Alex Hanna | Google, ML Fairness |
 | | A pipeline for analyzing Akkadian texts | Aleksi Sahala | University of Helsinki, Linguistics |
+| 2pm | **Session 8 - Biomedical** | 
 | | Application of text mining methods to identify lupus nephritis from electronic health records | Milena Gianfrancesco | UC San Francisco, Medicine |
-| 2:15pm | **Session 8 - Biomedical** | 
 | | Unstructured Text Analysis in Electronic Health Records to Characterize Sepsis Presentation | Meghana Bhimarao | Kaiser Permanente, Division of Research |
 | | Extracting patient-reported functional status and disease activity information from electronic health records | Tome Eftimov | Stanford University, Biomedical Data Science |
 | | Natural language processing for automated rapid cancer ascertainment | Liyan Liu | Kaiser Permanente, Division of Research |
