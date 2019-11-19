@@ -3,7 +3,7 @@ title: TextXD 2019 Program
 event: TextXD 2019
 event_url:
 location: Berkeley, CA
-summary: TextXD 2019 will take place Tuesday Dec. 3 through Friday Dec. 6 on the U.C. Berkeley campus. 
+summary: TextXD 2019 will take place Tuesday Dec. 3 through Friday Dec. 6 on the U.C. Berkeley campus.
 abstract:
 
 # Talk start and end times.
@@ -116,27 +116,27 @@ Location: Spieker Forum at Chou Hall
 | 9am | Breakfast |
 | 9:30am | Welcome |
 | 9:40am | **Keynote** | Chris Potts | Stanford University, Linguistics |
-| 10:30am | **Session 1 - Psychological Threads** | 
+| 10:30am | **Session 1 - Psychological Threads** |
 | | "I come before you a changed man": Historical Changes in the Vocabulary of Parole Release Decisions | Isaac Dalke | UC Berkeley, Sociology |
 | | "The words of trauma" - Text Analysis of the effect of War World II on Salinger’s literature | Anat Talmon, Chen Edelsburg | Stanford University, Psychology and Tel Aviv University |
 | 11:15am | <span class="badge warning">Coffee Break</span> |
-| 11:30am | **Session 2 - Policy** | 
+| 11:30am | **Session 2 - Policy** |
 | | The Effect of Gender Stereotypes on Educational Outcomes in the 1970s: A Historical Case Study | Zachary Bleemer | UC Berkeley, Economics |
 | | State-level racial attitudes and adverse birth outcomes: applying natural language processing to Twitter data to quantify state context for pregnant women | Thu Nguyen | UC San Francisco, Epidemiology & Biostatistics |
 | | NLP approaches to detecting behavioral failures in sustainable transportation infrastructure | Omar Isaac Asensio | Georgia Institute of Technology, Public Policy |
 | 12:30pm | **Lunch + Poster session** |
 | 1:30pm | **Keynote**: Towards Universal Language Understanding | Yunyao Li | IBM, Scalable Knowledge Intelligence |
-| 2:15pm | **Session 3 - Theory and Methods**  | 
+| 2:15pm | **Session 3 - Theory and Methods**  |
 | | Interpreting and improving NLP models via disentangled interpretations | Chandan Singh | UC Berkeley, Computer Science |
 | | Cross-domain classification | Barea Sinno | University of Texas at Austin, Ohio State University |
 | | Automated methods enable direct computation on phenotypic descriptions for novel candidate gene prediction | Ian Braun | Iowa State University, Computational Biology |
 | 3:15pm | <span class="badge warning">Coffee Break</span> |
-| 3:30pm | **Session 4 - Politics** | 
+| 3:30pm | **Session 4 - Politics** |
 | | Detecting Meaningful Multi-word Expressions in Political Text | Kenneth Benoit | London School of Economics, Methodology |
 | | Who speaks for Women in the Indian Parliament? | Saloni Bhogale | Ashoka University, Trivedi Centre |
-| | Sentiment is Not Stance: Target-Aware Classification for Political Text Analysis | Samuel E. Bestvater | The Pennsylvania State University, Political Science |
+| | Sentiment is Not Stance: Target-Aware Classification for Political Text Analysis | Samuel E. Bestvater, Burt Monroe | The Pennsylvania State University, Political Science |
 | 4:30pm | **Keynote** | Justin Grimmer | Stanford University, Political Science |
-| 5:30pm | <span class="badge danger">Reception</span> | 
+| 5:30pm | <span class="badge danger">Reception</span> |
 
 
 
@@ -149,11 +149,11 @@ Location: Spieker Forum at Chou Hall
 | 9am | Breakfast |
 | 9:30am | Welcome |
 | 9:40am | **Keynote** | Kathleen Carley | Carnegie Mellon University, Computer Science |
-| 10:30am | **Session 5 - Innovation** | 
-| | Quantifying Innovation with BERT: Linguistic Prescience and Firm Stock Returns | Paul Vicinanza | Stanford University, Graduate School of Business | 
-| | Identifying (Dis)Continuities in Ed Tech's Discourse of Invention | Sebastian Muñoz-Najar Galvez | Stanford University, Graduate School of Education | 
+| 10:30am | **Session 5 - Innovation** |
+| | Quantifying Innovation with BERT: Linguistic Prescience and Firm Stock Returns | Paul Vicinanza | Stanford University, Graduate School of Business |
+| | Identifying (Dis)Continuities in Ed Tech's Discourse of Invention | Sebastian Muñoz-Najar Galvez | Stanford University, Graduate School of Education |
 | 11:15am | <span class="badge warning">Coffee Break</span> |
-| 11:30am | **Session 6 - Public Health** | 
+| 11:30am | **Session 6 - Public Health** |
 | | NLP for conversational dialog | Orianna DeMasi | UC Davis, Computer Science |
 | | #Vape: Measuring E-cigarette Influence on Instagram with Deep Learning and Text Analysis | Julia Vassey | UC Berkeley, Public Health |
 | | No More Silence: Monitoring Bias with Word2Vec | Lauren Kaplan | UC San Francisco, Medicine |
@@ -163,18 +163,18 @@ Location: Spieker Forum at Chou Hall
 | | Are both policemen and policewomen police officers? The gender connotations of gender-fair language | Alina Arseniev-Koehler | UCLA, Sociology |
 | | Machine-learning Political Event Database System | Alex Hanna | Google, ML Fairness |
 | | A pipeline for analyzing Akkadian texts | Aleksi Sahala | University of Helsinki, Linguistics |
-| 2pm | **Session 8 - Biomedical** | 
+| 2pm | **Session 8 - Biomedical** |
 | | Application of text mining methods to identify lupus nephritis from electronic health records | Milena Gianfrancesco | UC San Francisco, Medicine |
 | | Unstructured Text Analysis in Electronic Health Records to Characterize Sepsis Presentation | Meghana Bhimarao | Kaiser Permanente, Division of Research |
 | | Extracting patient-reported functional status and disease activity information from electronic health records | Tome Eftimov | Stanford University, Biomedical Data Science |
 | | Natural language processing for automated rapid cancer ascertainment | Liyan Liu | Kaiser Permanente, Division of Research |
 | 3:15pm | <span class="badge warning">Coffee Break</span> |
-| 3:30pm | **Session 9 - News and Media** | 
+| 3:30pm | **Session 9 - News and Media** |
 | | "Downloading" the news: Reproducible access to text as data | Cody Hennesy | University of Minnesota, Libraries |
 | | Media Attention and Bureaucratic Responsiveness | Aaron Erlich | McGill University, Political Science |
 | | How Do Threats Shift In-Group Identification?: When Natural Experiments Meet Text Data | Andrew Thompson | Massachusetts Institute of Technology, Political Science |
 | 4:30pm | **Keynote** | Brandon Stewart | Princeton University, Sociology |
-| 5:30pm | <span class="badge danger">Reception</span> | 
+| 5:30pm | <span class="badge danger">Reception</span> |
 
 ## <a id="day4">Day 4: Friday, December 6th (Collaboration)</a>
 
@@ -189,12 +189,11 @@ Day 4 will be at BIDS and will include a hackathon component as well as parallel
 | 9am | Breakfast |
 | 9:30am | Welcome |
 | 9:40am | **Project introductions** |  |
-| 10:00am | Coding / collaboration | Pedagogy of Text Analysis - Evan Muzzall | 
+| 10:00am | Coding / collaboration | Pedagogy of Text Analysis - Evan Muzzall |
 | 11am | <span class="badge warning">Coffee Break</span> |
-| 11:15am | Coding / collaboration | Text Analysis for Social Good | 
+| 11:15am | Coding / collaboration | Text Analysis for Social Good |
 | 12:30pm | **Lunch** |
 | 1:30pm | Coding / collaboration | TextXD 2020 priorities |
 | 3:00pm | <span class="badge warning">Coffee Break</span> |
-| 3:15pm | Coding / collaboration | 
-| 4:00pm | **Report back & conference close** | 
-
+| 3:15pm | Coding / collaboration |
+| 4:00pm | **Report back & conference close** |
