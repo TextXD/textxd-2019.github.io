@@ -185,7 +185,7 @@ Location: Spieker Forum at Chou Hall
 | 3:30pm | **Session 9 - News and Media** |
 | | "Downloading" the news: Reproducible access to text as data | Cody Hennesy | University of Minnesota, Libraries |
 | | Media Attention and Bureaucratic Responsiveness | Aaron Erlich | McGill University, Political Science |
-| | How Do Threats Shift In-Group Identification?: When Natural Experiments Meet Text Data | Andrew Thompson | Massachusetts Institute of Technology, Political Science |
+| | Preference Misalignment and Rainbow Coalitions: Evidence from Supervised Machine Learning | Jae Yeon Kim | UC Berkeley, Political Science |
 | 4:30pm | **Keynote** | Brandon Stewart | Princeton University, Sociology |
 | 5:30pm | <span class="badge danger">Reception</span> |
 
