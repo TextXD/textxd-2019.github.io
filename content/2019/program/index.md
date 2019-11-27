@@ -121,7 +121,7 @@ Location: Spieker Forum at Chou Hall
 | | "The words of trauma" - Text Analysis of the effect of War World II on Salinger’s literature | Anat Talmon, Chen Edelsburg | Stanford University, Psychology and Tel Aviv University |
 | 11:15am | <span class="badge warning">Coffee Break</span> |
 | 11:30am | **Session 2 - Policy** |
-| | The Effect of Gender Stereotypes on Educational Outcomes in the 1970s: A Historical Case Study | Zachary Bleemer | UC Berkeley, Economics |
+| | Gender Stereotypes in Professor-Student Interactions | Zachary Bleemer | UC Berkeley, Economics |
 | | State-level racial attitudes and adverse birth outcomes: applying natural language processing to Twitter data to quantify state context for pregnant women | Thu Nguyen | UC San Francisco, Epidemiology & Biostatistics |
 | | NLP approaches to detecting behavioral failures in sustainable transportation infrastructure | Omar Isaac Asensio | Georgia Institute of Technology, Public Policy |
 | 12:30pm | **Lunch + Poster session** |
