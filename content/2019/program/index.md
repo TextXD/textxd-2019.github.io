@@ -125,6 +125,13 @@ Location: Spieker Forum at Chou Hall
 | | State-level racial attitudes and adverse birth outcomes: applying natural language processing to Twitter data to quantify state context for pregnant women | Thu Nguyen | UC San Francisco, Epidemiology & Biostatistics |
 | | NLP approaches to detecting behavioral failures in sustainable transportation infrastructure | Omar Isaac Asensio | Georgia Institute of Technology, Public Policy |
 | 12:30pm | **Lunch + Poster session** |
+| | Exploratory Expansion of Accounting Word Lists using Word-Embedding Models on SEC Filings | Brian Chivers | |
+| | Title TBD  | Raquel Coelho | |
+| | The Geography of Information: Inequalities in Online Advertisements for Rental Housing | John Kuk | |
+| | Refugee Education: A Survey of Topics and Trends in Newswires and Press Releases, 2009 to 2018 | Seungah Lee | |
+| | Who is cuing whom? The dual process of shaping knowledge gap in climate change communication | Yijyun Lin | |
+| | The Limits of Interest: Capture, Financialization, or Contestation in the Politics of Rule-Making on Derivatives | Konrad Posch | |
+| | Predicting Semantic Fluency Using Large-scale Language Corpora | Zhihao Zhang | |
 | 1:30pm | **Keynote**: Towards Universal Language Understanding | Yunyao Li | IBM, Scalable Knowledge Intelligence |
 | 2:15pm | **Session 3 - Theory and Methods**  |
 | | Interpreting and improving NLP models via disentangled interpretations | Chandan Singh | UC Berkeley, Computer Science |
@@ -158,6 +165,12 @@ Location: Spieker Forum at Chou Hall
 | | #Vape: Measuring E-cigarette Influence on Instagram with Deep Learning and Text Analysis | Julia Vassey | UC Berkeley, Public Health |
 | | No More Silence: Monitoring Bias with Word2Vec | Lauren Kaplan | UC San Francisco, Medicine |
 | 12:30pm | **Lunch + Poster session** |
+| | Natural Language Processing for Materials Discovery and Design | John Dagdelen | |
+| | Teaching machine synthesis: collecting dataset of "codified synthesis recipes" extracted from millions of publications | Olga Kononova | |
+| | A Transparent and Adaptable Method to Extract Colonoscopy and Pathology Data Using Natural Language Processing  | Liyan Liu | |
+| | Understanding emerging forms of cannabis use through online communities | Meredith Meacham | |
+| | Making Sense of Clinical Trial Descriptions: A Text Analysis Approach | Munif Ishad Mujib | |
+| | Impacts of the Arts | Gabriel Harp | |
 | 1:30pm | **Session 7 - Lightning Talks** | |
 | | Hidden Political Dynasties in China: Analyzing Chinese Baby Names as Ultra-Short Political Text Data | Tao Li  | University of Macau, Government & Public Administration |
 | | Are both policemen and policewomen police officers? The gender connotations of gender-fair language | Alina Arseniev-Koehler | UCLA, Sociology |
