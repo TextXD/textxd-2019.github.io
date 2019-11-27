@@ -81,7 +81,9 @@ width: 50%;
 </div>
 
 <p class="text-center white-font font-weight-5000"><b>Sponsored by:</b></p>
-{{< figure library="true" src="sponsor.png" height="200" width="600" class="center" lightbox="true" >}}
+{{< figure library="true" src="sponsor.png" height="300" width="900" class="center" lightbox="true" >}}
+<p class="text-center white-font font-weight-90">Additional support from Goldman Sachs, State Street, John Deere, and
+Johnson & Johnson. </p>
 <p class="text-center white-font font-weight-90"><a href="#contact">Contact us</a> to become a TextXD 2019 Sponsor.</p>
 
 <br>
