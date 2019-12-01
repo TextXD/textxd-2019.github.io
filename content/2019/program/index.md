@@ -118,7 +118,7 @@ Location: Spieker Forum at Chou Hall
 | 9:40am | **Keynote** | Chris Potts | Stanford University, Linguistics |
 | 10:30am | **Session 1 - Psychological Threads** |
 | | "I come before you a changed man": Historical Changes in the Vocabulary of Parole Release Decisions | Isaac Dalke | UC Berkeley, Sociology |
-| | "The words of trauma" - Text Analysis of the effect of War World II on Salinger’s literature | Anat Talmon, Chen Edelsburg | Stanford University, Psychology and Tel Aviv University |
+| | "The words of trauma" - Text Analysis of the effect of War World II on Salinger’s literature | Anat Talmon, Chen Edelsburg, Nimrod Talmon| Stanford University, Psychology and Tel Aviv University |
 | 11:15am | <span class="badge warning">Coffee Break</span> |
 | 11:30am | **Session 2 - Policy** |
 | | Gender Stereotypes in Professor-Student Interactions | Zachary Bleemer | UC Berkeley, Economics |
