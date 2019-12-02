@@ -132,6 +132,7 @@ Location: Spieker Forum at Chou Hall
 | | Who is cuing whom? The dual process of shaping knowledge gap in climate change communication | Yijyun Lin | |
 | | The Limits of Interest: Capture, Financialization, or Contestation in the Politics of Rule-Making on Derivatives | Konrad Posch | |
 | | Predicting Semantic Fluency Using Large-scale Language Corpora | Zhihao Zhang | |
+| | Applying natural language processing algorithms to detect behavioral failures in emerging electric vehicle infrastructure | Sooji Ha | |
 | 1:30pm | **Keynote**: Towards Universal Language Understanding | Yunyao Li | IBM, Scalable Knowledge Intelligence |
 | 2:15pm | **Session 3 - Theory and Methods**  |
 | | Interpreting and improving NLP models via disentangled interpretations | Chandan Singh | UC Berkeley, Computer Science |
