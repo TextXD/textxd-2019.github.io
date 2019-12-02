@@ -143,7 +143,7 @@ Location: Spieker Forum at Chou Hall
 | | Who speaks for Women in the Indian Parliament? | Saloni Bhogale | Ashoka University, Trivedi Centre |
 | | Sentiment is Not Stance: Target-Aware Classification for Political Text Analysis | Samuel E. Bestvater, Burt Monroe | The Pennsylvania State University, Political Science |
 | 4:30pm | **Keynote** | Justin Grimmer | Stanford University, Political Science |
-| 5:30pm | <span class="badge danger">Reception</span> |
+| 5:30pm | <span class="badge danger">Reception - Berkeley Institute for Data Science (190 Doe Library) </span> |
 
 
 
@@ -187,7 +187,7 @@ Location: Spieker Forum at Chou Hall
 | | Media Attention and Bureaucratic Responsiveness | Aaron Erlich | McGill University, Political Science |
 | | Preference Misalignment and Rainbow Coalitions: Evidence from Supervised Machine Learning | Jae Yeon Kim | UC Berkeley, Political Science |
 | 4:30pm | **Keynote** | Brandon Stewart | Princeton University, Sociology |
-| 5:30pm | <span class="badge danger">Reception</span> |
+| 5:30pm | <span class="badge danger">Reception - Tap Haus, 2518 Durant Ave</span> |
 
 ## <a id="day4">Day 4: Friday, December 6th (Collaboration)</a>
 
@@ -200,11 +200,11 @@ Day 4 will be at BIDS and will include a hackathon component as well as parallel
 | Time      | Topic  | Breakout session(s) |
 |:----------|:-------|:--------|
 | 9am | Breakfast |
-| 9:30am | Welcome |
+| 9:30am | Welcome - David Mongeau, BIDS | 
 | 9:40am | **Project introductions** |  |
-| 10:00am | Coding / collaboration | Pedagogy of Text Analysis - Evan Muzzall |
+| 10am | Coding / collaboration | Text Analysis for Social Good |
 | 11am | <span class="badge warning">Coffee Break</span> |
-| 11:15am | Coding / collaboration | Text Analysis for Social Good |
+| 11:15am | Coding / collaboration | Pedagogy of Text Analysis - Evan Muzzall |
 | 12:30pm | **Lunch** |
 | 1:30pm | Coding / collaboration | TextXD 2020 priorities |
 | 3:00pm | <span class="badge warning">Coffee Break</span> |
