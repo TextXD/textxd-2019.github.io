@@ -95,7 +95,7 @@ These workshops will generally be interactive coding sessions with jupyter noteb
 | Time      | Topic  | Speaker | Institution |
 |:----------|:-------|:--------|:------------|
 | 9am | Breakfast |
-| 9:30am | Welcome |
+| 9:30am | Welcome | Claudia von Vacano | D-Lab |
 | 9:40am | Text as Data Introduction | Jaren Haber | UC Berkeley, Sociology |
 | 10:35am | Web APIs and Scraping | Geoff Bacon | UC Berkeley, Linguistics |
 | 11:30am | <span class="badge warning">Coffee Break</span> |
