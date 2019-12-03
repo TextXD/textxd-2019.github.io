@@ -71,9 +71,6 @@ math: true
 }
 </style>
 
-Our preliminary program is below, although we may make some adjustments in the coming weeks.
-
-
 ## Program Overview
 
 | Day | Date | Focus | Location |
@@ -144,7 +141,7 @@ Location: Spieker Forum at Chou Hall
 | | Who speaks for Women in the Indian Parliament? | Saloni Bhogale | Ashoka University, Trivedi Centre |
 | | Sentiment is Not Stance: Target-Aware Classification for Political Text Analysis | Samuel E. Bestvater, Burt Monroe | The Pennsylvania State University, Political Science |
 | 4:30pm | **Keynote** | Justin Grimmer | Stanford University, Political Science |
-| 5:30pm | <span class="badge danger">Reception - Berkeley Institute for Data Science (190 Doe Library) </span> |
+| 5:30pm | <span class="badge danger">Reception</span> - Berkeley Institute for Data Science (190 Doe Library) |
 
 
 
@@ -189,7 +186,7 @@ Location: Spieker Forum at Chou Hall
 | | Media Attention and Bureaucratic Responsiveness | Aaron Erlich | McGill University, Political Science |
 | | Preference Misalignment and Rainbow Coalitions: Evidence from Supervised Machine Learning | Jae Yeon Kim | UC Berkeley, Political Science |
 | 4:30pm | **Keynote** | Brandon Stewart | Princeton University, Sociology |
-| 5:30pm | <span class="badge danger">Reception - Tap Haus, 2518 Durant Ave</span> |
+| 5:30pm | <span class="badge danger">Reception</span> - Tap Haus, 2518 Durant Ave |
 
 ## <a id="day4">Day 4: Friday, December 6th (Collaboration)</a>
 
