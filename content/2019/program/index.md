@@ -98,7 +98,7 @@ These workshops will generally be interactive coding sessions with jupyter noteb
 | 11:30am | <span class="badge warning">Coffee Break</span> |
 | 11:45am | [Topic modeling](https://bit.ly/2OOA2Al) | Ilya Akdemir | UC Berkeley, Law |
 | 12:45pm | Lunch |
-| 1:40pm | Word embeddings | Alina Arseniev-Koehler | UCLA, Sociology |
+| 1:40pm | [Word embeddings](https://drive.google.com/file/d/1kyYceJcCNShBz_vGtCnBJ7mab8_5Agq2/view?usp=sharing) | Alina Arseniev-Koehler | UCLA, Sociology |
 | 2:45pm | [Supervised machine learning](https://github.com/clpennec/TextXD2019) | Caroline Le Pennec-Caldichoury | UC Berkeley, Economics |
 | 3:45pm | <span class="badge warning">Coffee Break</span> |
 | 4pm | Deep learning | Dima Lituiev | UC San Francisco, Bakar Computational Health Sciences Institute |
