@@ -173,7 +173,7 @@ Location: Spieker Forum at Chou Hall
 | 1:30pm | **Session 7 - Lightning Talks** | |
 | | Hidden Political Dynasties in China: Analyzing Chinese Baby Names as Ultra-Short Political Text Data | Tao Li  | University of Macau, Government & Public Administration |
 | | Are both policemen and policewomen police officers? The gender connotations of gender-fair language | Alina Arseniev-Koehler | UCLA, Sociology |
-| | Machine-learning Political Event Database System | Alex Hanna | Google, ML Fairness |
+| | Uses of the Machine-learning Protest Event Database System | Alex Hanna | Google, ML Fairness |
 | | A pipeline for analyzing Akkadian texts | Aleksi Sahala | University of Helsinki, Linguistics |
 | | Summer Institute in Computational Social Science in the San Francisco Bay Area: Computational Social Science for Social Good | Jaren Haber and Jae Yeon Kim | UC Berkeley |
 | 2pm | **Session 8 - Biomedical** |
