@@ -101,7 +101,7 @@ These workshops will generally be interactive coding sessions with jupyter noteb
 | 1:40pm | [Word embeddings](https://drive.google.com/file/d/1kyYceJcCNShBz_vGtCnBJ7mab8_5Agq2/view?usp=sharing) | Alina Arseniev-Koehler | UCLA, Sociology |
 | 2:45pm | [Supervised machine learning](https://github.com/clpennec/TextXD2019) | Caroline Le Pennec-Caldichoury | UC Berkeley, Economics |
 | 3:45pm | <span class="badge warning">Coffee Break</span> |
-| 4pm | Deep learning | Dima Lituiev | UC San Francisco, Bakar Computational Health Sciences Institute |
+| 4pm | [Deep learning](https://docs.google.com/presentation/d/110FXW9REFy-fPlohHpvwttBwu52tGo9aXsM6euCX3_E/edit?usp=sharing) | Dima Lituiev | UC San Francisco, Bakar Computational Health Sciences Institute |
 | 5pm | Discussion |
 
 ## <a id="day2">Day 2: Wednesday, December 4th (Talks)</a>
