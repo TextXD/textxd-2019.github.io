@@ -1,10 +1,10 @@
 ---
 layout: article
 title: "Live streaming"
-#summary: Campus Map, Parking, Zero Waste Policy
+summary: Watch TextXD remotely through our live streaming system
 #authors:
 #- Violet Yao
-excerpt:
+excerpt: 
 tags: []
 image:
   feature:
