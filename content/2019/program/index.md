@@ -175,6 +175,7 @@ Location: Spieker Forum at Chou Hall
 | | Are both policemen and policewomen police officers? The gender connotations of gender-fair language | Alina Arseniev-Koehler | UCLA, Sociology |
 | | Machine-learning Political Event Database System | Alex Hanna | Google, ML Fairness |
 | | A pipeline for analyzing Akkadian texts | Aleksi Sahala | University of Helsinki, Linguistics |
+| | Summer Institute in Computational Social Science in the San Francisco Bay Area: Computational Social Science for Social Good | Jaren Haber and Jae Yeon Kim | UC Berkeley |
 | 2pm | **Session 8 - Biomedical** |
 | | Application of text mining methods to identify lupus nephritis from electronic health records | Milena Gianfrancesco | UC San Francisco, Medicine |
 | | Unstructured Text Analysis in Electronic Health Records to Characterize Sepsis Presentation | Meghana Bhimarao | Kaiser Permanente, Division of Research |
