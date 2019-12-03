@@ -172,6 +172,7 @@ Location: Spieker Forum at Chou Hall
 | | Understanding emerging forms of cannabis use through online communities | Meredith Meacham | |
 | | Making Sense of Clinical Trial Descriptions: A Text Analysis Approach | Munif Ishad Mujib | |
 | | Impacts of the Arts | Gabriel Harp | |
+| | FrameNet and Natural Language Processing | Miriam R L Petruck, Collin Baker | |
 | 1:30pm | **Session 7 - Lightning Talks** | |
 | | Hidden Political Dynasties in China: Analyzing Chinese Baby Names as Ultra-Short Political Text Data | Tao Li  | University of Macau, Government & Public Administration |
 | | Are both policemen and policewomen police officers? The gender connotations of gender-fair language | Alina Arseniev-Koehler | UCLA, Sociology |
@@ -201,7 +202,7 @@ Day 4 will be at BIDS and will include a hackathon component as well as parallel
 | Time      | Topic  | Breakout session(s) |
 |:----------|:-------|:--------|
 | 9am | Breakfast |
-| 9:30am | Welcome - David Mongeau, BIDS | 
+| 9:30am | Welcome - David Mongeau, BIDS |
 | 9:40am | **Project introductions** |  |
 | 10am | Coding / collaboration | Text Analysis for Social Good |
 | 11am | <span class="badge warning">Coffee Break</span> |
