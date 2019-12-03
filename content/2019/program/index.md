@@ -96,7 +96,7 @@ These workshops will generally be interactive coding sessions with jupyter noteb
 | 9:40am | [Text as Data Introduction](http://bit.ly/repo-textxd19) | Jaren Haber | UC Berkeley, Sociology |
 | 10:35am | [Web APIs and Scraping](https://docs.google.com/presentation/d/1MaeIe49sCLfzRo8pZFK1yCaBm5t-SYwtq2sRx9mk4KE/edit?folder=1IKlXMfeuQM-DE9T40mzeCaGn65Z38o21) | Geoff Bacon | UC Berkeley, Linguistics |
 | 11:30am | <span class="badge warning">Coffee Break</span> |
-| 11:45am | Topic modeling | Ilya Akdemir | UC Berkeley, Law |
+| 11:45am | [Topic modeling](https://bit.ly/2OOA2Al) | Ilya Akdemir | UC Berkeley, Law |
 | 12:45pm | Lunch |
 | 1:40pm | Word embeddings | Alina Arseniev-Koehler | UCLA, Sociology |
 | 2:45pm | Supervised machine learning | Caroline Le Pennec-Caldichoury | UC Berkeley, Economics |
