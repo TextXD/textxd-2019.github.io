@@ -65,14 +65,16 @@ width: 50%;
 <div style="background-color: rgba(50, 50, 50, 0.5); border: 4px solid #aaa; margin-bottom: 0; padding-bottom: 0; max-width: 1000px; margin-left: auto; margin-right: auto; padding-left: 10pt; padding-right: 10pt">
 <h1 class="text-center white-font font-weight-90" style="font-weight: bold">TextXD: Text Analysis Across Domains</h1>
 <h1 class="text-center white-font font-weight-90">Dec. 3 - 6, 2019</h1>
-<p class="text-center white-font font-weight-90">The premier natural language processing conference at the University of California, Berkeley.<br />Hosted by the Berkeley Institute for Data Science.</p>
+<p class="text-center white-font font-weight-90">The premier text-focused data science conference at the University of California, Berkeley.<br />Hosted by the Berkeley Institute for Data Science.</p>
 
 <ul style="list-style-type:disc; margin-bottom: 0">
 <!--<li><a href="/call-for-submissions">Call for Submissions</a>: submit an abstract by Friday, September 20</li>-->
 <li><a href="https://textxd2019.eventbrite.com">Register to attend TextXD 2019</a></li>
-<li> The <a href="/2019/program/">preliminary program</a> is now posted</li>
+<li> <a href="/2019/program/">View the program</a></li>
+  <li> <a href="/2019/logistics/">Logistics details</a> - campus map, parking info, zero-waste policy</li>
+  <li>Live-streaming info to be posted by 9:30am</li>
 <!-- <li>Thank you to all who submitted abstracts! They are under review with acceptances to be announced late-October.</li> -->
-<li> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdCDAHg8mk-3QapoXglj9fofVhc5gXd0bEFOWecaovAmB2bpg/viewform">Apply to present a poster</a> - applications will be reviewed on a rolling basis. </li>
+<!--<li> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdCDAHg8mk-3QapoXglj9fofVhc5gXd0bEFOWecaovAmB2bpg/viewform">Apply to present a poster</a> - applications will be reviewed on a rolling basis. </li>-->
 <!--<li>Keynotes: Justin Grimmer (Stanford), Kathleen Carley (CMU), Brandon Stewart (Princeton), Yunyao Li (IBM), and Christopher Potts (Stanford)</li>-->
 <!--<li> More details on our 2019 program, keynotes, poster sessions, etc. to come - stay tuned.</li>-->
 <!--<li>Ideas for TextXD 2019? <a href="https://docs.google.com/forms/d/e/1FAIpQLSe9ISpOJ9mn5nx3q2JwsAW_LtHZ2G8RgDLpag9mtXn1aHX_3A/viewform">Complete our feedback survey.</a></li>
