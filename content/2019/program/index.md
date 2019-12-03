@@ -17,7 +17,7 @@ showFooter: false
 profile: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2019-09-28T00:00:00Z"
+publishDate: "2019-12-01T00:00:00Z"
 
 authors: []
 tags: []
