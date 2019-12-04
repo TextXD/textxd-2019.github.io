@@ -124,7 +124,6 @@ Location: Spieker Forum at Chou Hall
 | 12:30pm | **Lunch + Poster session** |
 | | Exploratory Expansion of Accounting Word Lists using Word-Embedding Models on SEC Filings | Brian Chivers | |
 | | Title TBD  | Raquel Coelho | |
-| | The Geography of Information: Inequalities in Online Advertisements for Rental Housing | John Kuk | |
 | | Refugee Education: A Survey of Topics and Trends in Newswires and Press Releases, 2009 to 2018 | Seungah Lee | |
 | | Who is cuing whom? The dual process of shaping knowledge gap in climate change communication | Yijyun Lin | |
 | | The Limits of Interest: Capture, Financialization, or Contestation in the Politics of Rule-Making on Derivatives | Konrad Posch | |
