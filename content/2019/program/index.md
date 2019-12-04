@@ -111,7 +111,7 @@ Location: Spieker Forum at Chou Hall
 | Time      | Topic  | Speaker | Institution |
 |:----------|:-------|:--------|:------------|
 | 9am | Breakfast |
-| 9:30am | Welcome |
+| 9:30am | Welcome | Heather Haveman | UC Berkeley, Sociology & Business |
 | 9:40am | **Keynote** | Chris Potts | Stanford University, Linguistics |
 | 10:30am | **Session 1 - Psychological Threads** |
 | | "I come before you a changed man": Historical Changes in the Vocabulary of Parole Release Decisions | Isaac Dalke | UC Berkeley, Sociology |
