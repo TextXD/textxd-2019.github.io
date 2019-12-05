@@ -201,9 +201,9 @@ Day 4 will be at BIDS and will include a hackathon component as well as parallel
 | 9am | Breakfast |
 | 9:30am | Welcome - David Mongeau, BIDS |
 | 9:40am | **Project introductions** |  |
-| 10am | Coding / collaboration | Text Analysis for Social Good |
+| 10am | Coding / collaboration | Pedagogy of Text Analysis - Evan Muzzall  |
 | 11am | <span class="badge warning">Coffee Break</span> |
-| 11:15am | Coding / collaboration | Pedagogy of Text Analysis - Evan Muzzall |
+| 11:15am | Coding / collaboration | Text Analysis for Social Good |
 | 12:30pm | **Lunch** |
 | 1:30pm | Coding / collaboration | TextXD 2020 priorities |
 | 3:00pm | <span class="badge warning">Coffee Break</span> |
