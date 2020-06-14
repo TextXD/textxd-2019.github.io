@@ -23,8 +23,7 @@ organizations:
 bio:
 
 interests:
-- Natural Language Processing
-- Deep Learning
+- Computer Science & Data Science
 
 education:
   courses:
